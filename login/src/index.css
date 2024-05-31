@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+}
+.d-flex {
+  display: flex;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.min-vh-100 {
+  min-height: 100vh;
+}
+
+.myContainer {
+  background-color: #f8f9fa;
+  padding: 1rem; 
+  margin-bottom: 1rem; 
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+form {
+  margin: 0; 
+}
